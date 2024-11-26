@@ -10,7 +10,7 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="https://thewebconf.org/TheACMWebConference.png" margn-right="20px" ><a href="https://icmr2024.org/index.html"> ACM Web 2025 </a><a href="https://www2025.thewebconf.org/">(https://www2025.thewebconf.org/)</a>  </h2>
+  <h2> <img src="https://thewebconf.org/TheACMWebConference.png" margn-right="20px"><a href="https://icmr2024.org/index.html"> ACM Web 2025 </a><a href="https://www2025.thewebconf.org/">(https://www2025.thewebconf.org/)</a>  </h2>
  </div>
 
  
