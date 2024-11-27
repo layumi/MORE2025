@@ -23,7 +23,7 @@ author_profile: false
 The accept papers will be published at ACM Web Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ICMR24_Workshop_Object_Re_ID.pdf)
-[[Submission Site]](https://openreview.net/group?id=ACM.org/WWW/2024/Workshop/MORE)
+[[Submission Site]](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/MORE)
 
 
 ## News
@@ -52,7 +52,7 @@ Overall, this workshop creates a unique space to explore the rapidly evolving fi
 
 ## Submission 
 
-Submission Site is at [OpenReview](https://openreview.net/group?id=ACM.org/ICMR/2024/Workshop/MORE&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)  
+Submission Site is at [OpenReview](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/MORE)  
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
 
@@ -85,11 +85,11 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 
 ## Organizing Team
 
-|<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160">| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160">  |
-| :-: | :-: |
-|  [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | 
-| <img src="https://zdzheng.xyz/files/zhun-zhong.jpg" width="160"> | <img src="https://zheng-lab-anu.github.io/1.jpg" width="160"> | 
-|  [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Liang Zheng](https://zheng-lab-anu.github.io), Australian National University, Australia | 
+|<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160">| <img src="https://hou-yz.github.io/images/id_jervis_bay.jpeg" width="160"> |   | 
+| :-: | :-: | :-: |
+|  [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Yunzhong Hou](https://hou-yz.github.io/), Australian National University, Australia| Shuyu Yang, Xi'an Jiaotong University, China|
+| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160">  | <img src="https://zdzheng.xyz/files/zhun-zhong.jpg" width="160"> | <img src="https://zheng-lab-anu.github.io/1.jpg" width="160"> | 
+|  [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Liang Zheng](https://zheng-lab-anu.github.io), Australian National University, Australia | 
 
 
 ## Workshop Citation
