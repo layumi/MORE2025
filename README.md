@@ -60,7 +60,7 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 ## Submission Type
 **(1).** Original papers (up to 4 pages in length, plus unlimited pages for references): original solution to the tasks in the scope of workshop topics and themes.
 
-**(2).** Position or perspective papers (up to 4 pages in length, plus unlimited pages for references): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable multimedia systems; 
+**(2).** Challenge papers (up to 4 pages in length, plus unlimited pages for references): winning papers for our challenge; 
 
 **(3).** Survey papers (up to 4 pages in length, plus unlimited pages for references): papers summarizing existing publications in leading conferences and high-impact journals that are relevant for the topic of the workshop;
 Page limits include diagrams and appendices. 
@@ -72,6 +72,8 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 
 **Submission of papers:**
 * Workshop Papers Submission: 25 Nov, 2024
+* Challenge Start: 1 Dec, 2024
+* Challenge End: 14 Dec, 2024
 * Workshop Papers Notification: 18 Dec, 2024
 * Camera-ready Submission: 25 Dec, 2024
 * Workshop Dates: 28-29 Apr, 2025
