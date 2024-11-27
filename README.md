@@ -96,7 +96,7 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 ```
 @inproceedings{wang2025MORE,
   title={MORE'25 Multimedia Object Re-ID: Advancements, Challenges, and Opportunities},
-  author={Wang, Yaxiong and Zheng, Zhedong and Zhong, Zhun and Zheng, Liang},
+  author={Wang, Yaxiong and Hou, Yunzhong and Yang, Shuyu and Zheng, Zhedong and Zhong, Zhun and Zheng, Liang},
   booktitle={ACM Web Conference Workshop},
   year={2025}
 }
