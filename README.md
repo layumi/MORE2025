@@ -27,6 +27,7 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 
 
 ## News
+- Paper submission site is online.
 - Workshop site is online.
 
 
