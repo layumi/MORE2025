@@ -1,4 +1,4 @@
----
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/85e5f3a9-c4a6-487a-89e4-0d5361875d4a">---
 title: "MORE 2025"
 collection: pages
 permalink: /MORE2025
@@ -71,10 +71,11 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: 25 Nov, 2024
+* Workshop Paper Submission Start: 27 Nov, 2024
 * Challenge Start: 1 Dec, 2024
 * Challenge End: 14 Dec, 2024
-* Workshop Papers Notification: 18 Dec, 2024
+* Workshop Paper Submission End: 18 Dec, 2024
+* Workshop Papers Notification: 23 Dec, 2024
 * Camera-ready Submission: 25 Dec, 2024
 * Workshop Dates: 28-29 Apr, 2025
 
@@ -88,7 +89,7 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 
 ## Organizing Team
 
-|<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160">| <img src="https://hou-yz.github.io/images/id_jervis_bay.jpeg" width="160"> | <img src="https://github.com/layumi/MORE2025/blob/main/shuyu.jpg" width="160">  | 
+|<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160">| <img src="https://hou-yz.github.io/images/id_jervis_bay.jpeg" width="160"> | <img src="https://github.com/layumi/MORE2025/blob/main/shuyu.jpg?raw=true" width="160">  | 
 | :-: | :-: | :-: |
 |  [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Yunzhong Hou](https://hou-yz.github.io/), Australian National University, Australia| Shuyu Yang, Xi'an Jiaotong University, China|
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160">  | <img src="https://zdzheng.xyz/files/zhun-zhong.jpg" width="160"> | <img src="https://zheng-lab-anu.github.io/1.jpg" width="160"> | 
