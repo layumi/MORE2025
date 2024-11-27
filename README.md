@@ -1,4 +1,4 @@
-<img width="430" alt="image" src="https://github.com/user-attachments/assets/85e5f3a9-c4a6-487a-89e4-0d5361875d4a">---
+---
 title: "MORE 2025"
 collection: pages
 permalink: /MORE2025
