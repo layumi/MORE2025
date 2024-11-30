@@ -27,6 +27,7 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 
 
 ## News
+- Challenge site is [online](https://codalab.lisn.upsaclay.fr/competitions/21001). 
 - Paper submission site is online.
 - Workshop site is online.
 
@@ -80,6 +81,23 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 * Workshop Dates: 28-29 Apr, 2025
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
+
+
+## Challenge Overview
+We also provide a challenging text-based person anomaly search dataset, called PAB, and the workshop audience may consider to participate the competition. The motivation is to locating the pedestrian of interest engaged in either normal or anomaly actions that we usually face an extremely large person image pool. In particular, PAB is a large-scale image-text Pedestrian Anomaly Behavior (PAB) benchmark, featuring a broad spectrum of actions, e.g., running, performing, playing soccer, and the corresponding anomalies, e.g., lying, being hit, and falling of the same identity. We will release PAB on our website, and make a public leader board. The training set of PAB comprises 1,013,605 synthesized image-text pairs of both normalities and anomalies, while the test set includes 1,978 real-world image-text pairs. In our primary evaluation, text-based person anomaly search is challenging and demands a finer-grained understanding of both the pedestrian’s appearance and behavior. Our baseline model achieves 69.92% Recall@1, 95.60% Recall@5, and 97.32% Recall@10 accuracy. We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
+
+Check challenge details at https://arxiv.org/pdf/2411.17776
+
+The challenge dataset contains two part.
+
+- The basic dataset (training set) can be download from Onedrive.
+
+- The name-masked test-PAB dataset (query & gallery) can be downloaded from the same Onedrive.
+
+The submission example can be found at Baseline Submission. Please zip it as ``answer.zip'' to submit the result.
+
+Please return the top-10 person image names. For example, the first query index is ``LJBPICLSHG7YHW5''. Therefore, the first line of returned result in ``answer.txt'' should be the format as follows from Rank-1 to Rank-10:
+
 
 ### Tips:
 
