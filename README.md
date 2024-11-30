@@ -82,7 +82,6 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
-
 ## Challenge Overview
 We also provide a challenging text-based person anomaly search dataset, called PAB, and the workshop audience may consider to participate the competition. The motivation is to locating the pedestrian of interest engaged in either normal or anomaly actions that we usually face an extremely large person image pool. In particular, PAB is a large-scale image-text Pedestrian Anomaly Behavior (PAB) benchmark, featuring a broad spectrum of actions, e.g., running, performing, playing soccer, and the corresponding anomalies, e.g., lying, being hit, and falling of the same identity. We will release PAB on our website, and make a public leader board. The training set of PAB comprises 1,013,605 synthesized image-text pairs of both normalities and anomalies, while the test set includes 1,978 real-world image-text pairs. In our primary evaluation, text-based person anomaly search is challenging and demands a finer-grained understanding of both the pedestrian’s appearance and behavior. Our baseline model achieves 69.92% Recall@1, 95.60% Recall@5, and 97.32% Recall@10 accuracy. We hope more audiences can be involved to solve this challenge, and may also consider the efficiency problem against a large candidate pool.
 
