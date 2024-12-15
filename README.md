@@ -74,10 +74,10 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 **Submission of papers:**
 * Workshop Paper Submission Start: 27 Nov, 2024
 * Challenge Start: 1 Dec, 2024
-* Challenge End: 14 Dec, 2024
-* Workshop Paper Submission End: 18 Dec, 2024
-* Workshop Papers Notification: 23 Dec, 2024
-* Camera-ready Submission: 25 Dec, 2024
+* Challenge End: ~~14 Dec, 2024~~ 29 Dec, 2024
+* Workshop Paper Submission End: ~~18 Dec, 2024~~ 1 Jan, 2025
+* Workshop Papers Notification: ~~23 Dec, 2024~~ 21 Jan, 2025
+* Camera-ready Submission: ~~25 Dec, 2024~~ 28 Jan, 2025
 * Workshop Dates: 28-29 Apr, 2025
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
