@@ -27,6 +27,7 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 
 
 ## News
+- We join Workshop Fast-Track (For the main conference rejected paper only. Please add an Appendix below References. You need to cut and paste reviews from the main review process. Noted that the accepted paper will be published on ACM Companion proceedings. )
 - Challenge site is [online](https://codalab.lisn.upsaclay.fr/competitions/21001). 
 - Paper submission site is online.
 - Workshop site is online.
@@ -77,6 +78,8 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 * Challenge End: ~~14 Dec, 2024~~ 29 Dec, 2024
 * Workshop Paper Submission End: ~~18 Dec, 2024~~ 1 Jan, 2025
 * Workshop Papers Notification: ~~23 Dec, 2024~~ 21 Jan, 2025
+* Workshop Fast-Track Submission: 26 Jan 2025 (for the main conference rejected paper only. Please add an Appendix below References. You need to cut and paste reviews from the main review process.)
+* Workshop Fast-Track Notification: 27 Jan 2025
 * Camera-ready Submission: ~~25 Dec, 2024~~ 28 Jan, 2025
 * Workshop Dates: 28-29 Apr, 2025
 
