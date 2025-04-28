@@ -35,11 +35,11 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 ## Talk
 | Time         | Speaker                     | Affiliation                              | Photo                                                                 | Title                                                                                          |
 |--------------|----------------------------|------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 1:30 - 1:50  | Qian Dong                  | Tsinghua                                | <img src="https://csqiandong.github.io/images/profile.jpg" width="150" /> | **Decoupling Knowledge and Context**: An Efficient... |
-| 1:50 - 2:20  | Yang Zhang                 | NUS                                     | <img src="https://zyang1580.github.io/Homepage_files/zhangyang_2023.jpg" width="150" /> | **Leveraging Memory Retrieval**... |
-| 2:20 - 2:40  | Xuejiao Zhao               | NTU                                     | <img src="https://zxjwudi.github.io/xuejiaozhao/images/myphoto.jpg" width="150" /> | **MedRAG**: Enhancing... |
-| 2:40 - 3:00  | Xinger Xu                  | Tsinghua                                | *Image pending*                                                      | **PerSRV**: Personalized... |
-| 3:00 - 3:20  | Philipp Breuss-Schneeweis  | Johannes Kepler University Linz         | *Image pending*                                                      | **Beamster**: a Gaming... |
+| 1:30 - 1:50  | Qian Dong                  | Tsinghua                                | <img src="https://csqiandong.github.io/images/profile.jpg" width="150" /> | **Decoupling Knowledge and Context**: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention  |
+| 1:50 - 2:20  | Yang Zhang                 | NUS                                     | <img src="https://zyang1580.github.io/Homepage_files/zhangyang_2023.jpg" width="150" /> | **Leveraging Memory Retrieval** to Enhance LLM-based Generative Recommendation     |
+| 2:20 - 2:40  | Xuejiao Zhao               | NTU                                     | <img src="https://zxjwudi.github.io/xuejiaozhao/images/myphoto.jpg" width="150" /> |**MedRAG**: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot  |
+| 2:40 - 3:00  | Xinger Xu                  | Tsinghua                                | *Image pending*                                                      | **PerSRV**: Personalized Sticker Retrieval with Vision-Language Model   |
+| 3:00 - 3:20  | Philipp Breuss-Schneeweis  | Johannes Kepler University Linz         | *Image pending*                                                      | **Beamster**: a Gaming Concept based on Person Re-Identification      |
 
 ## Abstract
 Object re-identification (or object re-ID) has gained significant attention in recent years, fueled by the increasing demand for advanced video analysis and safety systems. In object
