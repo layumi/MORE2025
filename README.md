@@ -33,6 +33,8 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 - Workshop site is online.
 
 ## Talk
+(Sydney Local Time)
+
 | Time         | Speaker                     | Affiliation                              | Photo                                                                 | Title                                                                                          |
 |--------------|----------------------------|------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | 1:30 - 1:50  | Qian Dong                  | Tsinghua                                | <img src="https://csqiandong.github.io/images/profile.jpg" width="150" /> | **Decoupling Knowledge and Context**: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention  |
