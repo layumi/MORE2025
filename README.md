@@ -33,6 +33,11 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 - Workshop site is online.
 
 ## Talk
+
+[Zoom Link](https://us06web.zoom.us/j/88916449018?pwd=eAPOQKCnn6ZxWFY3iP3ijMT4tOwUeX.1): https://us06web.zoom.us/j/88916449018?pwd=eAPOQKCnn6ZxWFY3iP3ijMT4tOwUeX.1
+
+Meeting ID: 889 1644 9018 Passcode: 309215
+
 (Sydney Local Time)
 
 | Time         | Speaker                     | Affiliation                              | Photo                                                                 | Title                                                                                          |
