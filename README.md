@@ -34,6 +34,11 @@ The accept papers will be published at ACM Web Workshop (top 50%), and go throug
 
 ## Talk
 
+:point_right:	 Recorded Talk is now available at 
+[YouTube](https://youtu.be/BdPPlnyEX4s?feature=shared)
+and [Bilibili](https://www.bilibili.com/video/BV1zVG2zVE1e/?share_source=copy_web&vd_source=222300375bbc659e752c8304d20bb6d5) 
+
+
 Zoom Link: https://us06web.zoom.us/j/88916449018?pwd=eAPOQKCnn6ZxWFY3iP3ijMT4tOwUeX.1
 
 Meeting ID: 889 1644 9018 Passcode: 309215
