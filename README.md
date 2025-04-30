@@ -134,7 +134,7 @@ Please return the top-10 person image names. For example, the first query index 
 |<img src="https://zdzheng.xyz/coauthors/yaxiong-wang.jpeg" width="160">| <img src="https://hou-yz.github.io/images/id_jervis_bay.jpeg" width="160"> | <img src="https://github.com/layumi/MORE2025/blob/main/shuyu.jpg?raw=true" width="160">  | 
 | :-: | :-: | :-: |
 |  [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Yunzhong Hou](https://hou-yz.github.io/), Australian National University, Australia| [Shuyu Yang](https://scholar.google.com/citations?user=U8sKsVYAAAAJ), Xi'an Jiaotong University, China|
-| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160">  | <img src="https://zdzheng.xyz/coauthors/zhun-zhong.jpg" width="160"> | <img src="https://zheng-lab-anu.github.io/1.jpg" width="160"> | 
+| <img src="https://www.zdzheng.xyz/images/mstile-150x150.webp" width="160">  | <img src="https://zdzheng.xyz/coauthors/zhun-zhong.jpg" width="160"> | <img src="https://zheng-lab-anu.github.io/1.jpg" width="160"> | 
 |  [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Liang Zheng](https://zheng-lab-anu.github.io), Australian National University, Australia | 
 
 
