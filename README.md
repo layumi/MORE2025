@@ -23,10 +23,12 @@ author_profile: false
 The accept papers will be published at ACM Web Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
 
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ICMR24_Workshop_Object_Re_ID.pdf)
+[[Accepted Papers]](https://dl.acm.org/doi/proceedings/10.1145/3701716?tocHeading=heading9)
 [[Submission Site]](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/MORE)
 
 
 ## News
+- Accepted Workshop Papers are released! (https://dl.acm.org/doi/proceedings/10.1145/3701716?tocHeading=heading9)
 - We join Workshop Fast-Track (For the main conference rejected paper only. Please add an Appendix below References. You need to cut and paste reviews from the main review process. Noted that the accepted paper will be published on ACM Companion proceedings. )
 - Challenge site is [online](https://codalab.lisn.upsaclay.fr/competitions/21001). 
 - Paper submission site is online.
